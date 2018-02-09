@@ -483,10 +483,10 @@
           "description2": "",
           "description3": "",
           "description4": "",
-          "button1": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/2-week-social-media-campaign\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a>   ",
+          "button1": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/2-week-social-media-campaign\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a> <a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">portfolio</a>   ",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/360-digital-campaign\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/1-month-social-media-campaign\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a>  ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/1-month-social-media-campaign\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a> <a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">portfolio</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -589,7 +589,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/1-month-360-digital-campaign\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a> ",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "button3": " <a data-app-btn=\"true\" href=\"mailto:797digital@protonmail.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">email</a> <a data-app-btn=\"true\" href=\"tel:+1-647-933-5576\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">phone</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/creative-ad-pack\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/creative-ad-pack\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a> <a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">portfolio</a> ",
           "_tags": [
             "Theme"
           ],
@@ -876,7 +876,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -908,7 +908,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -976,7 +976,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitlhthhthhted-1-1999x1518-800x607.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -1009,18 +1009,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/unyjtitled-1-2000x1332-800x532.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/untitlbnnnbed-1-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitlbnnnbed-1-2000x1333-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
